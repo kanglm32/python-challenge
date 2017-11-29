@@ -1,0 +1,13 @@
+Financial Analysis
+----------------------------------------------------
+for first file, the number of months are: 41
+The total dollar value in file 1 is 18971412
+The average value of file 1 dollar value is 462717.3658536585
+The max increase of file 1 is 1195111and it occured in Sep-15
+The min increase of file 1 is -1172384and it occured in Aug-14
+----------------------------------------------------
+for second file, the number of months are: 86
+The total dollar value in file 2 is 36973911
+The average value of file 2 dollar value is 429929.1976744186
+The max increase of file 2 is 1141606and it occured in Mar-2012
+The min increase of file 2 is -1063151and it occured in Sep-2010
